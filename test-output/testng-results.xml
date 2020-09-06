@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="64948" started-at="2020-08-31T16:20:47 IST" finished-at="2020-08-31T16:21:52 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="64948" started-at="2020-08-31T16:20:47 IST" finished-at="2020-08-31T16:21:52 IST">
+      <class name="com.testcases.DataDrivenTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcases.DataDrivenTest@56aac163]" name="setup" is-config="true" duration-ms="26299" started-at="2020-08-31T16:20:48 IST" finished-at="2020-08-31T16:21:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.testcases.DataDrivenTest@56aac163]" name="loginTest" duration-ms="1504" started-at="2020-08-31T16:21:14 IST" data-provider="credentals" finished-at="2020-08-31T16:21:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[barani]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[barani20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.DataDrivenTest@56aac163]" name="tearDown" is-config="true" duration-ms="1825" started-at="2020-08-31T16:21:15 IST" finished-at="2020-08-31T16:21:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcases.DataDrivenTest@56aac163]" name="setup" is-config="true" duration-ms="9071" started-at="2020-08-31T16:21:17 IST" finished-at="2020-08-31T16:21:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.testcases.DataDrivenTest@56aac163]" name="loginTest" duration-ms="997" started-at="2020-08-31T16:21:26 IST" data-provider="credentals" finished-at="2020-08-31T16:21:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[barani1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[barani30]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.DataDrivenTest@56aac163]" name="tearDown" is-config="true" duration-ms="838" started-at="2020-08-31T16:21:27 IST" finished-at="2020-08-31T16:21:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcases.DataDrivenTest@56aac163]" name="setup" is-config="true" duration-ms="8648" started-at="2020-08-31T16:21:28 IST" finished-at="2020-08-31T16:21:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.testcases.DataDrivenTest@56aac163]" name="loginTest" duration-ms="1092" started-at="2020-08-31T16:21:37 IST" data-provider="credentals" finished-at="2020-08-31T16:21:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[barani2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[barani12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.DataDrivenTest@56aac163]" name="tearDown" is-config="true" duration-ms="1103" started-at="2020-08-31T16:21:38 IST" finished-at="2020-08-31T16:21:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcases.DataDrivenTest@56aac163]" name="setup" is-config="true" duration-ms="8328" started-at="2020-08-31T16:21:39 IST" finished-at="2020-08-31T16:21:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.testcases.DataDrivenTest@56aac163]" name="loginTest" duration-ms="3440" started-at="2020-08-31T16:21:47 IST" data-provider="credentals" finished-at="2020-08-31T16:21:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sbarani46]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[barani@20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.DataDrivenTest@56aac163]" name="tearDown" is-config="true" duration-ms="1496" started-at="2020-08-31T16:21:51 IST" finished-at="2020-08-31T16:21:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testcases.DataDrivenTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
